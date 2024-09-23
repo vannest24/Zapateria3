@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+/* Estilos generales del cuerpo de la página */
+/* Estilos generales del cuerpo de la página */
+body {
+    font-family: 'Comic Sans MS', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilos para el título de la zapatería */
+h1 {
+    color: red;
+    margin: 20px 0;
+}
+
+/* Estilos para los datos de contacto */
+p {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+/* Estilos para la tabla */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: lightblue;
+}
+
+/* Estilos para las celdas de la tabla */
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+/* Estilo para el logo */
+#logo {
+    display: block;
+    margin: 20px 0;
+    max-width: 250px; /* Ajusta el tamaño máximo del logo */
+    height: auto;
+    float: left; /* Alinea el logo a la izquierda */
+}
+
