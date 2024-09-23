@@ -30,6 +30,18 @@ var datos = [
         'talla': 23,
         'precio': '$1,100'
     }
+    {
+        'folio': 106,
+        'descripcion': 'ZBotas de invierno',
+        'talla': 24,
+        'precio': '$2,500'
+    }
+    {
+        'folio': 107,
+        'descripcion': 'Tenis deportivos',
+        'talla': 22,
+        'precio': '$1,500'
+    }
 ];
 
 // Título de la zapatería y datos de contacto
